@@ -1,0 +1,27 @@
+{
+ "BenchPress" : {
+	"name" : "Bench Press",
+	"description" : [ 
+	"Lie face up on a flat bench with a barbell support rack",
+	"With a spotter standing behind you safely lift the bar of the rack", 
+	"While at the top of the movement adjust your shoulders down and back", 
+	"Lower the bar until it lightly touches your chest without flaring your elbows out", 
+	"Using your chest muscles to engage in the movement press the bar back up to the starting position", 
+	"Adjust your shoulders if needed before repeating the movement"],
+	"id" : 10,
+	"equipmentUsed" : ["Bench Press", "Barbell"],
+	"complexity" : "Medium",
+	"primaryStreet" : ["Chest"],
+	"secondaryStreet" : ["Shoulders", "Triceps"],
+	"primaryMuscles" : ["Pectoralis Major"],
+	"secondaryMuscles" : ["Triceps Brachii", "Anterior Deltoid"],
+	"properForm" : [
+	"Keep shoulders down and back", 
+	"Plant feet firmly on the floor",
+	"Squeeze your glutes, lats, and core to brace your body against the bench"
+	],
+	"exerciseType" : "Compound"
+ 
+ }
+
+}
