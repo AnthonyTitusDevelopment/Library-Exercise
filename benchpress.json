@@ -1,5 +1,4 @@
 {
- "BenchPress" : {
 	"name" : "Bench Press",
 	"description" : [ 
 	"Lie face up on a flat bench with a barbell support rack",
@@ -21,7 +20,5 @@
 	"Squeeze your glutes, lats, and core to brace your body against the bench"
 	],
 	"exerciseType" : "Compound"
- 
- }
 
 }
