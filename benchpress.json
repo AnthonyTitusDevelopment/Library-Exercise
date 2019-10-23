@@ -1,4 +1,3 @@
-{
 	"name" : "Bench Press",
 	"description" : [ 
 	"Lie face up on a flat bench with a barbell support rack",
@@ -21,4 +20,3 @@
 	],
 	"exerciseType" : "Compound"
 
-}
