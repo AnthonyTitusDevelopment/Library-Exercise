@@ -1,0 +1,19 @@
+{
+	"name" : "Decline Push-up",
+	"description" : [ 
+	"Place your hands on the bench with your arms extended out in front of you",
+	"While at the top of the movement adjust your shoulders down and back", 
+	"Lower your chest to the bench by bending your elbows while keeping your entire body braced and straight", 
+	"Using your chest muscles to engage in the movement press the your body back up to the starting position in one fluid motion", 
+	"Adjust your shoulders down and back if needed before repeating the movement"
+	],
+	"id" : 26,
+	"equipmentUsed" : ["Bodyweight"],
+	"complexity" : "Easy",
+	"primaryStreet" : ["Chest"],
+	"secondaryStreet" : ["Shoulders", "Triceps"],
+	"primaryMuscles" : "Pectoralis Major Lower Fibers",
+	"secondaryMuscles" : ["Triceps Long Head","Triceps Medial Head","Triceps Lateral Head", "Anterior Deltoid"],
+	"properForm" : ["Keep shoulders down and back", "Hands placed about shoulder width apart","Squeeze your glutes, lats, and core"],
+	"exerciseType" : "Compound"
+ }

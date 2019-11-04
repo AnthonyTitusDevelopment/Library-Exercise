@@ -1,0 +1,23 @@
+{
+ 
+	"name" : "Decline Dumbbell Chest Press",
+	"description" : [ 
+	"Lie face up on a decline bench",
+	"Have a spotter carefully hand you the dumbbells over head ",
+	"While at the top of the movement adjust your shoulders down and back", 
+	"Lower the dumbbells until your arms are parallel with the floor without flaring your elbows out", 
+	"Using your chest muscles to engage in the movement press the dumbbells back up to the starting position", 
+	"Adjust your shoulders if needed before repeating the movement"
+	],
+	"id" : 22,
+	"equipmentUsed" : ["Decline Bench Press", "Dumbbells"],
+	"complexity" : "Hard",
+	"primaryStreet" : ["Chest"],
+	"secondaryStreet" : ["Shoulders", "Triceps"],
+	"primaryMuscles" : "Pectoralis Major Lower Fibers",
+	"secondaryMuscles" : ["Triceps Medial Head","Triceps Lateral Head", "Triceps Long Head", "Anterior Deltoid"],
+	"properForm" : ["Keep shoulders down and back", "Plant feet firmly on the floor","Squeeze your glutes, lats, and core to brace your body against the bench"],
+	"exerciseType" : "Compound"
+ 
+ 
+ }

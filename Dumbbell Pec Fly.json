@@ -1,0 +1,20 @@
+{
+	"name" : "Dumbbell Pec Fly",
+	"description" : [ 
+	"Lie face up on a bench with a pair of dumbbells in each hand",
+	"Extend your arms until their is a modest bend in your elbows and the dumbbell ends are touching one another",
+	"Bring your arms out to the side while maintaining the bend as if you were making the letter T with your body", 
+	"When you start to feel a stretch in your chest begin lifting your hands back to the starting position", 
+	"If you feel a stretch in your biceps then bend your arms a little more", 
+	"Adjust your shoulders down and back if needed before repeating the movement"
+	],
+	"id" : 28,
+	"equipmentUsed" : ["Dumbbells"],
+	"complexity" : "Medium",
+	"primaryStreet" : ["Chest"],
+	"secondaryStreet" : nil,
+	"primaryMuscles" : "Pectoralis Major Medial Fibers",
+	"secondaryMuscles" : nil,
+	"properForm" : ["Keep shoulders down and back", "Hands placed about shoulder width apart","Squeeze your glutes, lats, and core"],
+	"exerciseType" : "Isolation"
+ }

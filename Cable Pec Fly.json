@@ -1,0 +1,21 @@
+{
+	"name" : "Cable Pec Fly",
+	"description" : [ 
+	"Adjust the dual cable setting to where the cables are just under shoulder height",
+	"Grab each cable in one hand and extend your arms out to form a letter T",
+	"Put a slight bend in your arms to take the stretch away from your biceps and put it onto your chest", 
+	"Place one foot in front of the other and set your shoulders down and back",
+	"Using your chest muscles press your hands together meeting them in the middle and slowly return to the starting position",	
+	"If you feel a stretch in your biceps then bend your arms a little more", 
+	"Adjust your shoulders down and back if needed before repeating the movement"
+	],
+	"id" : 32,
+	"equipmentUsed" : ["Cables"],
+	"complexity" : "Medium",
+	"primaryStreet" : ["Chest"],
+	"secondaryStreet" : nil,
+	"primaryMuscles" : "Pectoralis Major Medial Fibers",
+	"secondaryMuscles" : nil,
+	"properForm" : ["Keep shoulders down and back", "Keep your elbows in line with your hands","Squeeze your glutes, lats, and core"],
+	"exerciseType" : "Isolation"
+ }

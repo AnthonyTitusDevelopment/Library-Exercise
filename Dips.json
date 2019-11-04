@@ -1,0 +1,20 @@
+{
+	"name" : "Dips",
+	"description" : [ 
+	"Place your hands on the two handles of a dip machine",
+	"The starting position is with your arms extended straight",
+	"Keeping your chest up and your shoulders down and back slightly lean forward to place an emphasis on your chest", 
+	"Bend your elbows and slowly descend into the machine while maintaining the proper posture", 
+	"Using your chest muscles press your body back to the starting position", 
+	"Adjust your shoulders down and back if needed before repeating the movement"
+	],
+	"id" : 32,
+	"equipmentUsed" : ["Bodyweight", "Machine"],
+	"complexity" : "Hard",
+	"primaryStreet" : ["Chest"],
+	"secondaryStreet" : ["Shoulders", "Triceps"],
+	"primaryMuscles" : "Pectoralis Major Lower Fibers",
+	"secondaryMuscles" : ["Anterior Deltoid", "Triceps Lateral Head", "Triceps Medial Head", "Triceps Long Head"],
+	"properForm" : ["Keep shoulders down and back","Lean forward slightly"],
+	"exerciseType" : "Compound"
+ }
